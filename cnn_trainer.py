@@ -1,3 +1,5 @@
+#  475 training images and 132 validation images.
+
 import os
 from pathlib import Path
 import torch
